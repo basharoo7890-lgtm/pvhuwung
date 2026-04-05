@@ -28,16 +28,15 @@ Here are some ideas to get you started:
 ```bash
 #!/bin/bash
 
-🔭 currentJob=" Currently working at: Advance Intelligence Group"
-🌱 learning=" Learning about: Cloud, Software, and AI"
-🏔️ collaboration=" Innovative AI and App Projects"
-💬 askMeAbout=" API Development, Cloud, AI, and System Design"
-📫 howToReachMe=" linkedin.com/in/vn-phamviethung"
-🏎️ pronouns=" He/Him"
-🤖 funFact=" No Fun"
+🔭 currentJob="Software Engineer Intern @ ITG Solution"
+🌱 learning="Advanced Cloud Architecture, AI Agents, and DevOps"
+🏔️ collaboration="YourMove: VR & AI solutions for Autism and ADHD support"
+💬 askMeAbout="DevOps Pipelines, AWS Infrastructure, and Python Automation"
+📫 howToReachMe="linkedin.com/in/bashar-mukaddam"
+🏎️ pronouns="He/Him"
+🤖 funFact="Won 2nd Place at the National Robotics Championship 2025"
 
-info="$currentJob\n$learning\n$collaboration\n$askMeAbout\n$howToReachMe\
-n$pronouns\n$funFact"
+info="$currentJob\n$learning\n$collaboration\n$askMeAbout\n$howToReachMe\n$pronouns\n$funFact"
 
 echo -e "$info"
 
